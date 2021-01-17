@@ -1,0 +1,203 @@
+body
+{
+font-family: 'Roboto', sans-serif;
+}
+.container {
+    width: 1060px;
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header
+{
+    width: 100%;
+    height: 100px;
+    padding-top: 50px;
+    background-color: #e9e9e9;
+}
+.header img
+{
+    width: 200px;
+    height: 50px;
+    float: left;
+    padding-left: 10px;
+}
+.header h2
+{
+    float: left;
+    height: 50px;
+    line-height: 10px;
+    padding-left: 10px;
+}
+.cont
+{
+    width: 90%;
+    padding: 5%;
+    border-top: 1px solid;
+}
+.contic {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+.cont table {
+    margin-left: auto;
+    margin-right: auto;
+    width:100%;
+}
+.cont table input
+{
+    margin-left: 20px;
+    width: 498px;
+    height: 30px;
+    padding-left: 2px;
+}
+.cont tr td
+{
+    height: 50px;
+    font-size: 15px;
+}
+.cont tr td img {
+    height: 20px;
+    margin-left:5px;
+    align-items:center;
+    vertical-align:middle;
+}
+.footer
+{
+    width: 100%;
+    height: 50px;
+    border-top: 1px solid;
+    line-height: 50px;
+    text-align: center;
+    font-size: 15px;
+}
+.radiobtn
+{
+    margin-left: 5px;
+    width: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+select
+{
+     width: 550px;
+    height: 30px;
+    font-size:15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+}
+.textarea
+{
+     width: 550px;
+    height: 100px;
+    font-size:15px;
+    margin-bottom: 20px;
+}
+.btncl
+{
+    width: 160px;
+    height: 40px;
+    background-color: cadetblue;
+    border-radius: 50px;
+    color:#fff;
+    font-size:15px;
+    border:none;
+}
+.btncleft {
+    width: 120px;
+    height: 30px;
+    background-color: cadetblue;
+    color: #fff;
+    font-size: 15px;
+    border: none;
+}
+.btncl2
+{
+    width: 160px;
+    height: 40px;
+    background-color: cadetblue;
+    border-radius: 50px;
+    color:#fff;
+    font-size:15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border:none;
+}
+.btngit
+{
+    width: 100%;
+    height: 60px;
+    background-color: cadetblue;
+    border-radius: 50px;
+    color:#fff;
+    font-size:15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border:none;
+}
+.bild {
+    width: 98%;
+    height: 40px;
+    background-color: #e9e9e9;
+    line-height:40px;
+    font-weight:bold;
+    padding:1%;
+}
+.kullanicipaneltable {
+    width: 100%;
+    text-align: center;
+}
+    .kullanicipaneltable td {
+        width: 50%;
+        border: 1px solid;
+    }
+    .kullanicipaneltable td input
+    {
+        width:80%;
+        padding:0px;
+        margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.btnkpanel {
+    width: 100%;
+
+}
+.warning{
+    font-size: 18px;
+    font-weight: bold;
+}
+.warning span{
+    font-size: 20px;
+    font-weight: bold;
+}
+.getir{
+    display:flex;
+    align-items:center;
+}
+.bilgi{
+    width:25px;
+    margin-left:5px;
+    margin-right:5px;
+}
+.lejand{
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+.adminlabel {
+    margin-left: 30px;
+}
+#grid {
+    width: 670px;
+
+    padding-right: 200px;
+}
+
+#GridView1 input[type='checkbox'] {
+    height: 24px;
+    width: 24px;
+}
